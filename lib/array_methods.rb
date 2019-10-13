@@ -1,5 +1,5 @@
 def using_include(array, element)
-
+array.include?pokemon
 end
 
 def using_sort(array)
